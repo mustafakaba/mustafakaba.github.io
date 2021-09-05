@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate at the Department of Political Science at Duke University and a Middle East Initiative predoctoral [fellow](https://www.belfercenter.org/person/serkant-adiguzel) at the Harvard Kennedy School. I am also affiliated with [DevLab@Duke](https://www.devlabduke.com), where I am part of the [Machine Learning for Peace project](https://www.devlabduke.com/machinelearningforpeace). I specialize in Political Economy and Political Methodology. I hold an M.A. in Economics, a B.A. in Economics, and a B.A. in Political Science and International Relations, all from Boğaziçi University, Istanbul.
+I am a Senior Research Fellow at the [Max Planck Institute for Research on Collective Goods](https://www.coll.mpg.de/) in Bonn. I have recevied my PhD in Economics (2020) from the European University Institute under the supervisions of Prof. David K. Levine and Prof. Arthur Schram. I hold an MA in Economics (2016) and a BA in Industrial Engineering (2014) both from Boğaziçi University, İstanbul.
 
-I am broadly interested in democratic backsliding, the political economy of media, and regime transitions. I study the multiple channels, such as manipulating the informational environment and providing public services, through which would-be autocrats solidify their popular support. In my dissertation, I develop a political media capture theory to explain the variation we see in media capture strategies. I also look at how such strategies affect media bias and how ownership characteristics and structure shape whether such bias is demand-driven (because of consumers) or supply-driven (because of media owners). 
+My research interests include applied microeconometrics, behavioral economics, and political economy. I use a variety of methods in my research including causal inference methods, field experiments, network analysis, predictive modeling, and cluster analysis along with other statistical tools.
 
-I also have some works aiming to explain how the provision of public goods/services impacts popular support for aspiring autocrats. My work has been published in the *Journal of Political Institutions and Political Economy*.
+E-mail: *kaba@coll.mpg.de*
+

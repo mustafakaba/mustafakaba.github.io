@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fatih Serkant Adiguzel"
+title                    : "Mustafa Kaba"
 title_separator          : "-"
-name                     : &name "Fatih Serkant Adiguzel"
+name                     : &name "Mustafa Kaba"
 description              : &description "personal description"
-url                      : "https://serkantadiguzel.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mustafakaba.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "serkant/serkant.github.io"
+repository               : "mustsafakaba/mustafakaba.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fatih Serkant Adiguzel"
-  avatar           : "serkant_photo_lowsize.jpeg"
-  bio              : "Ph.D Candidate in Political Science"
-  location         : "Cambridge, MA"
-  employer         :
+  name             : "Mustafa Kaba"
+  avatar           : "website3.jpg"
+  bio              : "Post-doctoral Fellow at the Max Planck Institute for Research on Collective Goods"
+  location         : "Bonn, Germany"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=U6IwZXUAAAAJ&hl=en&oi=ao"
-  email            : 'serkant.adiguzel@duke.edu'
+  googlescholar    : 
+  email            : 'kaba@coll.mpg.de'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "serkant"
+  github           : "mustafakaba"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9636-6618"
+  orcid            : "https://orcid.org/0000-0003-3173-8692"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SerkantAdiguzel"
+  twitter          : "kabamstf"
   vine             :
   weibo            :
   xing             :

@@ -5,22 +5,10 @@ author_profile: true
 title: 'Teaching Assistant'
 ---
 
-*   **Duke University, Graduate Teaching Assistant**:
-    * Politics of Authoritarian Regimes
+**Teaching Assistant, Economics Department, Boğaziçi University**:
+   * Advanced Macroeconomics (EC308, Undergrad level)
+   * Graduate Macroeconomics (EC504, Graduate level)
 
-* **Boğaziçi University, Graduate Teaching Assistant**:
-    * Microeconomics
-    * Game Theoretical Models of Political Economy
-    * Public Finance
-    * Economics of Industrial Organization
-    * Evolution of Economies and Economics
-    * Turkish Economy
-    * Growth and Development
-    * Topics in History of Economic Thought
-
-
-* **Boğaziçi University, Undergraduate Teaching Assistant**:
-    * Microeconomics
     
 
 
