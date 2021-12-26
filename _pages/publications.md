@@ -36,7 +36,7 @@ author_profile: true
 	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))*
 	
 2. Election and Electoral Competition: how do they affect rent distribution?
-	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/)*
+	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))*
 
 
 
