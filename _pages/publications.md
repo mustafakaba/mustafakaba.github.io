@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+
+££ Publications
+
 [Link to Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121004704){: .btn--research}
 
 {% if author.googlescholar %}
