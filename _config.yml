@@ -86,7 +86,7 @@ author:
   location         : "Bonn, Germany"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : 'https://scholar.google.com/citations?user=oETbfesAAAAJ&hl=tr&oi=ao'
   email            : 'kaba@coll.mpg.de'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
