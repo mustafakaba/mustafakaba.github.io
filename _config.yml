@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mustafa Kaba"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mustafa Kaba"
 description              : &description "personal description"
