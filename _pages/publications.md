@@ -10,7 +10,7 @@ author_profile: true
 
 1. Kaba, M. (2022). Who buys vote-buying? How, how much, and at what cost?. Journal of Economic Behavior & Organization, 193, 98-124.
 
-	[Link to Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121004704){: .btn--research}
+	[Link to Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121004704){: .btn--research}{:target="_blank"}
 
 ## Working Papers
 
