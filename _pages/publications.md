@@ -24,7 +24,7 @@ author_profile: true
 	[Draft available soon](){: .btn--research}{:target="_blank"}
 	
 * <span style="color:Black"> The Olympic effect: a synthetic control approach
-	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span>
+	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> Under Review
 	
 	<font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries strive to host the event. A prominent explanation for this puzzling interest is the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports for host and bidding countries using the synthetic control method. We show that the Olympic effect is most pronounced for countries that stand to gain from an international publicity and signaling trade liberalization. We also show that a substantial positive Olympic effect is only associated with the earlier games. </font> 	
 	
