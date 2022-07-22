@@ -44,7 +44,7 @@ author_profile: true
 * <span style="color:Black"> Election and Electoral Competition: how do they affect rent distribution through state contracts?
 	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span>
 
-* <span style="color:Black"> The Extent and Drivers of Polarization in Vaccination Status: experimentel evidence from Turkey 
+* <span style="color:Black"> The Extent and Drivers of Polarization in Vaccination Status: experimental evidence from Turkey 
 	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 
 {% if author.googlescholar %}
