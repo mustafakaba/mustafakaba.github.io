@@ -28,7 +28,7 @@ author_profile: true
 	
 	<font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries historically have been striving to host this mega event and bidding decisively until very recently. A prominent explanation for this puzzling interest is the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports using the synthetic control method. We show that the Olympic effect is more pronounced for countries that stand to gain from an international publicity. We also show that a substantial positive Olympic effect is only associated with the earlier games. </font> 	
 	
-	[Working Paper](/files/The_Olympic_Effect_Aug_2022.pdf){: .btn--research}{:target="_blank"}
+	[Working Paper](/files/The_Olympic_Effect.pdf){: .btn--research}{:target="_blank"}
 	
 * <span style="color:Black"> Class Distinctiveness and Voting: a cross-country analysis </span>
 	
