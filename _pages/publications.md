@@ -5,15 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-## Publications
-
-* <span style="color:Black"> Kaba, M. (2022). Who buys vote-buying? How, how much, and at what cost?. *Journal of Economic Behavior & Organization*, 193, 98-124. </span>
-
-	<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> 
-
-	[Link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167268121004704){: .btn--research}{:target="_blank"}
-
 ## Working Papers
 
 * <span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
@@ -35,6 +26,17 @@ author_profile: true
 	<font size="2.5"> It is widely assumed that social class divisions in economic preferences have become increasingly blurred over time due to higher living standards. Nevertheless, the previous literature lacks a systematic method to quantify the extent of this blurring of class divisions –if it exists at all– and to track its evolution over time and across space. To this end, using predictive modeling, I first develop a new measure of class distinctiveness in economic preferences. I then estimate this new measure in 18 European countries for three points in time. After validating the newly developed measure, I test whether the class distinctiveness in economic preferences can explain the variation in the strength of class-based voting. </font> 
 	
 	[Working Paper](/files/Class_voting_paper.pdf){: .btn--research}{:target="_blank"}
+
+
+
+## Publications
+
+* <span style="color:Black"> Who buys vote-buying? How, how much, and at what cost?. *Journal of Economic Behavior & Organization*, 193, 98-124. </span>
+
+	<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> 
+
+	[Link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167268121004704){: .btn--research}{:target="_blank"}
+
 
 ## Work in Progress
 	
