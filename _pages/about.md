@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Fellow at the [Max Planck Institute for Research on Collective Goods](https://www.coll.mpg.de/) in Bonn and a member of the [Center for Social and Economic Behavior](https://c-seb.de/en/) in Cologne. 
+I am a Senior Research Fellow at the [Max Planck Institute](https://www.coll.mpg.de/) in Bonn.
 
 I am an applied microeconomist focusing on political economy and behavioral economics. I use tools from econometrics, causal inference, and experimental economics to tackle questions related to economic behavior in various economic and social settings. My latest research project tries to understand the components of social identity, its determinants, and its effect on policy preferences and opinion formation. I also recently started to use field experiments in my research.
 
