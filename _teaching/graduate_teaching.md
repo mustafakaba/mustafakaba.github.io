@@ -6,7 +6,7 @@ title: 'Teaching'
 ---
 
 **Lecturer, Economics Department, University of Cologne**
-   * Econometrics for Behavioral Economics (Grad. level), Spring 2022
+   * Econometrics for Behavioral Economics (Grad. level), Spring 2022 <br>
    [Syllabus](/files/Syllabus_Econometrics.pdf){: .btn--research}{:target="_blank"} 
    [Student Evaluations](/files/student_evaluations_eng.pdf){: .btn--research}{:target="_blank"}
 
