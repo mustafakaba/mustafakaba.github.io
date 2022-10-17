@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Fellow at the [Max Planck Institute](https://www.coll.mpg.de/) in Bonn.
+I am a Senior Research Fellow at the [Max Planck Institute](https://www.coll.mpg.de/) in Bonn and an affiliate of the [C-SEB](https://c-seb.de/en/). I have received my Ph.D. in Economics from the European University Institute (2021) under the supervision of David K. Levine and Arthur Schram. 
 
-I am an applied microeconomist focusing on political economy and behavioral economics. I use tools from econometrics, causal inference, and experimental economics to tackle questions related to economic behavior in various economic and social settings. My latest research project tries to understand the components of social identity, its determinants, and its effect on policy preferences and opinion formation. I also recently started to use field experiments in my research.
-
-I recevied my Ph.D. in Economics from the European University Institute in 2021. I hold an MA in Economics (2016) and a BA in Industrial Engineering (2014) from Boğaziçi University, İstanbul.
+I am an applied microeconomist working on political economy and behavioral economics. My research focuses on understanding economic behavior, preferences, and perceptions in various economic and social settings using applied microeconometrics, field experiments, and large-scale survey experiments. You can visit my [research page](https://mustafakaba.github.io/research/) for an overview of my projects.
 
 E-mail: *kaba@coll.mpg.de*
 
