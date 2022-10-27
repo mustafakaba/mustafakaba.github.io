@@ -10,7 +10,7 @@ author_profile: true
 * <span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
 	*(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 	
-	 <font size="2.5">  Using uniquely detailed data from over 1700 professionals in 23 large corporations, we show that the gender of leaders has a significant impact on the structure of social networks within firms. Homophilic professional ties among male workers characterize departments with male leadership. Female leadership breaks male homophily and create a less segregated workplace. Under female leadership, both males and females establish more professional links with their female colleagues. Workplace climate is healthier when workers establish professional support links with their leaders, and female leaders are significantly more likely than male leaders to develop such links with their female subordinates. Our results suggest that increasing female presence in corporate decision-making positions may be a profitable way to improve organizational culture. </font> 
+	 <font size="2.5">   Using uniquely detailed data from over 2000 professionals in 23 large corporations, we show that the gender of leaders has a significant impact on the structure of social networks within firms. We document that female leaders do not possess ``male-like'' characteristics but rather preserve their female qualities that help them shape social interactions and workplace climate differently from male leaders. Homophilic professional ties among male workers characterize departments with male leadership. Female leadership breaks male homophily and eliminates the gender difference in homophilic professional and personal interactions. Under female leadership, both males and females establish more professional links with their female colleagues. Workplace climate is healthier when workers establish professional and personal support links with their leaders, and female leaders are significantly more likely than male leaders to develop such links with their female subordinates. However, female employees depict a gloomy workplace climate when working under non-supportive female leaders. Our results highlight the importance of supportive leadership, and suggest that increasing female presence in corporate decision-making positions may be an effective way to improve organizational culture. </font> 
 	
 	[Draft available soon](){: .btn--research}{:target="_blank"}
 	
@@ -40,14 +40,26 @@ author_profile: true
 
 ## Work in Progress
 	
+* <span style="color:Black"> Takeover of Local Governments, Public Procurement Performance, and Public Service Delivery
+	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span>
+	
+	<font size="2.5"> We analyze how public procurement processes are affected when central governments take control of local governments. We use a novel data set on the universe of all state contracts from Turkey and a quasi-experimental setting where some elected mayors were replaced with government-appointed trustees by the central government. Using a regression discontinuity design, we specifically focus on how auction methods, procurement outcomes, and public service provision change due to these appointments. Our findings show that trustee mayors display a higher level of discretion by opting for less competitive auction methods than their elected counterparts. The increased level of discretion, in turn, translates into worse procurement outcomes in terms of rebate value, price, and cost of the contract. Furthermore, we document that trustee mayors decrease spending on critical public services such as health and education while distributing more contracts to make security-related purchases. </font> 		 
+	
+
+* <span style="color:Black"> Polarization of Anti- and Pro-vaxers: evidence from a large-scale survey experiment in Turkey
+	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
+	
+	<font size="2.5"> In this project, using a large-scale representative survey experiment in Turkey, we investigate the  polarization between anti- and pro-vaxers. We show that there exists a substantial amount of outgroup bias in each group against the other and this outgroup bias cannot be explained by the general groupy tendencies of the participants. Despite the outgroup bias displayed by each group, we show that the two groups are almost identical in their socio-economic and demographic characteristics, as well as, in their policy preferences in economic an cultural issues. What differs strikingly between these groups is the beliefs about the other group. Each group believes, although not accurate, that the other group votes for a different party than their preferred one. These findings imply the politicized nature of the polarization between anti- and pro-vaxers. Informational treatments on the economic and public health costs of the pandemic, and on an external threat that is supposed to foster solidarity, have limited effect on this polarization. </font> 
+	
 * <span style="color:Black"> Social Identity and Policy Preferences: evidence from an online experiment
 	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 	
-* <span style="color:Black"> Election and Electoral Competition: how do they affect rent distribution through state contracts?
-	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span>
+	
+* <span style="color:Black"> Reputation Signaling and Exports in Contract-Intensive Industries
+	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> 
+	
+	<font size="2.5">  </font> 
 
-* <span style="color:Black"> The Extent and Drivers of Polarization in Vaccination Status: experimental evidence from Turkey 
-	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
