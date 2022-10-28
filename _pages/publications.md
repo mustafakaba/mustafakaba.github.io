@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publications
+
+* <span style="color:Black"> Who buys vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
+
+	<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> 
+
+	[Paper](/files/published_manuscript_JEBO.pdf){: .btn--research}{:target="_blank"}
+
+
+
 ## Working Papers
 
 * <span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
@@ -28,18 +38,14 @@ author_profile: true
 	[Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"}
 
 
-
-## Publications
-
-* <span style="color:Black"> Who buys vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
-
-	<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> 
-
-	[Paper](/files/published_manuscript_JEBO.pdf){: .btn--research}{:target="_blank"}
-
-
 ## Work in Progress
 	
+* <span style="color:Black"> Reputation Signalling and Exports in Contract-Intensive Industries
+	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> 
+	
+	<font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out from this trap is to have a third-party organization signalling reputation on behalf of it. We test the effectiveness of this strategy by using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in exports of these industries.  </font> 	
+
+
 * <span style="color:Black"> Takeover of Local Governments, Public Procurement Performance, and Public Service Delivery
 	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span>
 	
@@ -55,10 +61,6 @@ author_profile: true
 	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 	
 	
-* <span style="color:Black"> Reputation Signalling and Exports in Contract-Intensive Industries
-	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> 
-	
-	<font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out from this trap is to have a third-party organization signalling reputation on behalf of it. We test the effectiveness of this strategy by using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in exports of these industries.  </font> 
 
 
 {% if author.googlescholar %}
