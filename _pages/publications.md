@@ -33,7 +33,7 @@ author_profile: true
 	
 * <span style="color:Black"> Class Voting and Economic Policy Preferences: a predictive modelling approach </span>
 	
-	<font size="2.5"> It is widely assumed that class divisions in economic preferences have become increasingly blurred over time due to higher living standards. Nevertheless, the previous literature lacks a systematic method to quantify the extent of this blurring of class divisions --if it exists at all-- and to track its evolution over time and across space. To this end, using predictive modeling, I first develop a new measure of class distinctiveness in economic preferences. I then estimate this new measure in 18 European countries for three points in time. After validating the newly developed measure, I test whether the class distinctiveness in economic preferences can explain the variation in the strength of class-based voting. </font> 
+	<font size="2.5"> It is widely assumed that class divisions in economic preferences have become increasingly blurred over time due to higher living standards. Nevertheless, the previous literature lacks a systematic method to quantify the extent of this blurring of class divisions -if it exists at all- and to track its evolution over time and across space. To this end, using predictive modeling, I first develop a new measure of class distinctiveness in economic preferences. I then estimate this new measure in 18 European countries for three points in time. After validating the newly developed measure, I test whether the class distinctiveness in economic preferences can explain the variation in the strength of class-based voting. </font> 
 	
 	[Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"}
 
@@ -43,7 +43,7 @@ author_profile: true
 * <span style="color:Black"> Reputation Signalling and Exports in Contract-Intensive Industries
 	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> 
 	
-	<font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out from this trap is to have a third-party organization signalling reputation on behalf of it. We test the effectiveness of this strategy by using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in exports of these industries.  </font> 	
+	<font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out of this trap is to have a third-party organization signalling reputation on behalf of them. We test the effectiveness of this strategy using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in the exports of these industries compared to non-contract-intensive industries.  </font> 	
 
 
 * <span style="color:Black"> Takeover of Local Governments, Public Procurement Performance, and Public Service Delivery
