@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!
 
 I am a Senior Research Fellow at the [Max Planck Institute](https://www.coll.mpg.de/) in Bonn and an affiliate of the [C-SEB](https://c-seb.de/en/). I have received my Ph.D. in Economics from the European University Institute (2021) under the supervision of David K. Levine and Arthur Schram. 
 
