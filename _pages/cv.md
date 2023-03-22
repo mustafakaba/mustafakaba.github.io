@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for my CV](/files/CV_Mustafa_Kaba.pdf){: .btn--research}
+[Click here for my CV](/files/CV_Kaba.pdf){: .btn--research}
