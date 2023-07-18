@@ -17,20 +17,31 @@ author_profile: true
 
 ## Working Papers
 
+
+* <span style="color:Black"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
+	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <b>(Submitted)</b>
+	
+	<font size="2.5"> This paper examines the role of social norms and political polarization in shaping vaccination attitudes and behaviors in the context of the Covid-19 pandemic. Using a large-scale representative survey experiment in Turkey, we first show that political affiliation is a strong predictor of attitudes towards vaccination. We then use standard economic games to measure the extent of polarization caused by subjects' attitudes towards vaccination. We find that pro- and anti-vaxxers discriminate each other substantially. Furthermore, when pro- and anti-vaxxers perceive a political difference between them, this polarization is exacerbated. Finally, using randomized informational treatments, we show that the promotion of a broadly shared social identity might mitigate this outgroup discrimination. </font> 
+	
+	[Working Paper](/files/PolVacc.pdf){: .btn--research}{:target="_blank"} 
+	
+	
+	
+* <span style="color:Black"> The Olympic Effect: Fact or Fiction?
+	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <b>(Submitted)</b>
+	
+	<font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries historically have been striving to host this mega event and bidding decisively. More recently though, countries are withdrawing their bids from the election procedure. This puzzling historical interest in hosting the games and the recent trend of withdrawals cast doubt on the existence of the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports using the synthetic control method. We show that the Olympic effect is more pronounced for countries that stand to gain from an international publicity. The results also indicate that a substantial positive Olympic effect is only associated with earlier games. </font> 	
+	
+	[Working Paper](/files/The_Olympic_Effect.pdf){: .btn--research}{:target="_blank"} 
+	
+	
+
 * <span style="color:Black"> Unforeseen Events or Unscrupulous Officials? Electoral Accountability and Law Abuse in Public Procurement
 	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span>
 	
 	<font size="2.5"> This paper examines whether electoral accountability deters public officials from abusing the law in public procurement. We construct a novel indicator of law abuse based on the frequency of invoking an unforeseen events clause of the procurement law, which allows public officials to increase their discretion in contract awarding. Using a staggered Differences-in-Differences (DiD) approach, we causally estimate that mayors who have no reelection incentives are 23% more likely to abuse the unforeseen events clause than those who have. This abuse leads to higher contract prices by 23% and lower rebates by 10%. We estimate that $95 million could have been saved had the contracts been awarded by mayors with reelection incentives. </font> 	
 
 	[Draft available soon](){: .btn--research}{:target="_blank"}
-
-* <span style="color:Black"> Vaccination as Social Contract in Politically Polarized Settings: Evidence from a Randomized Survey Experiment in Turkey
-	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
-	
-	<font size="2.5"> Vaccination is not only a medical choice but also a social contract. But what happens when society is divided along political lines? This paper examines Covid-19 vaccinations as a social contract in a politically polarized setting. Using a large-scale representative survey experiment, we first identify the characteristics of pro- and anti-vaxxers and reveal that political affiliation shapes vaccination attitudes even in the face of a global pandemic. We then use standard economic games to measure the extent of outgroup bias between the two groups and how it is exacerbated by political cues. We find that pro- and anti-vaxxers discriminate more against each other when they perceive a political difference between them. Finally, using randomized informational treatments, we show that promotion of a broadly shared social identity might mitigate this outgroup discrimination. Our findings have important implications for public health policies and social cohesion. </font> 
-	
-	[Draft available soon](){: .btn--research}{:target="_blank"}
-	
 	
 * <span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
 	*(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
@@ -39,24 +50,6 @@ author_profile: true
 	
 	[Draft available soon](){: .btn--research}{:target="_blank"}
 	
-* <span style="color:Black"> The Olympic Effect: Fact or Fiction?
-	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <b>(Under Review)</b>
-	
-	<font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries historically have been striving to host this mega event and bidding decisively. More recently though, countries are withdrawing their bids from the election procedure. This puzzling historical interest in hosting the games and the recent trend of withdrawals cast doubt on the existence of the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports using the synthetic control method. We show that the Olympic effect is more pronounced for countries that stand to gain from an international publicity. The results also indicate that a substantial positive Olympic effect is only associated with earlier games. </font> 	
-	
-	[Working Paper](/files/The_Olympic_Effect.pdf){: .btn--research}{:target="_blank"} 
-	
-	
-* <span style="color:Black"> Class Voting and Economic Policy Preferences: A Predictive Modelling Approach </span>
-	
-	<font size="2.5"> Economic policy preferences are often thought to be less class-based over time due to improved living standards. Yet, there is no clear way to measure the degree of class distinctiveness in economic preferences and how it varies over time and space. In this paper, I introduce a novel measure of class distinctiveness in economic policy preferences based on predictive modeling and estimate it for 18 European countries at three different points in time. I then validate this new measure and explore its implications for class-based voting. </font> 
-	
-	[Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"}
-	
-
-
-	
-
 
 ## Work in Progress
 	
@@ -70,6 +63,14 @@ author_profile: true
 	
 	<font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out of this trap is to have a third-party organization signalling reputation on behalf of them. We test the effectiveness of this strategy using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in the exports of these industries compared to non-contract-intensive industries.  </font> 
 	
+
+## Shirking Papers
+
+* <span style="color:Black"> Class Voting and Economic Policy Preferences: A Predictive Modelling Approach </span>
+	
+	<font size="2.5"> Economic policy preferences are often thought to be less class-based over time due to improved living standards. Yet, there is no clear way to measure the degree of class distinctiveness in economic preferences and how it varies over time and space. In this paper, I introduce a novel measure of class distinctiveness in economic policy preferences based on predictive modeling and estimate it for 18 European countries at three different points in time. I then validate this new measure and explore its implications for class-based voting. </font> 
+	
+	[Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"}
 
 
 {% if author.googlescholar %}
