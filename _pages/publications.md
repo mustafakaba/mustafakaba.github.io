@@ -5,6 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+body {
+    font-size: 0.75em; /* Adjust as needed */
+}
+font {
+    font-size: 1.75em; /* Adjust as needed */
+}
+</style>
+
 ## Publications
 
 * <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
@@ -97,20 +106,19 @@ function myFunction(id) {
 
 <style>
 .abstractButton {
-    color: $link-color; /* White text */
-    border: 1px solid; /* Black border */
-	border-color: $link-color;
-	border-radius: $border-radius;
-    padding: 0.125em 0.25em;; /* Some padding */
+    background-color: blue; /* Blue background */
+    color: white; /* White text */
+    border: 2px solid black; /* Black border */
+    padding: 5px 10px; /* Some padding */
     text-align: center; /* Centered text */
-    text-decoration: none !important; /* No underline */
+    text-decoration: none; /* No underline */
     display: inline-block;
-    margin-bottom: 0.25em;
+    font-size: 16px;
+    margin: 4px 2px;
     cursor: pointer; /* Mouse pointer on hover */
 }
 .abstractButton:hover {
-    background-color: $link-color !important; /* Light Blue background on hover */
+    background-color: lightblue; /* Light Blue background on hover */
 }
-</style> 	
-
+</style>
 
