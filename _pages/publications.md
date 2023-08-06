@@ -5,28 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-body {
-    font-size: 0.75em; /* Adjust as needed */
-}
-font {
-    font-size: 1.75em; /* Adjust as needed */
-}
-</style>
 
 ## Publications
 
 * <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
 
 	<button class="abstractButton" onclick="myFunction('abstract1')">Abstract</button>
-	<p id="abstract1" style="display: none;"><font size="0.5em"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
-
-
-* <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
-
-	<button class=".btn--research" onclick="myFunction('abstract1')">Abstract</button>
-	<p id="abstract1" style="display: none;"><font size="1em"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
-	
+	<p id="abstract1" style="display: none;"><font size="1.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
 
 
 ## Working Papers
