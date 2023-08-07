@@ -155,7 +155,9 @@
 &--research {
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.125em 0.25em;
+  /* padding: 0.125em 0.25em; */
+  padding: 0.75em 0.15em;
+  font-size: 11px;
   color: $link-color;
   text-align: center;
   text-decoration: none !important;
