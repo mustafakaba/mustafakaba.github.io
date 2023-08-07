@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 
-* <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>Journal of Economic Behavior & Organization</b> 193 (2022): 98-124. </span> <br>
+* <span style="color:Black; font-size: 16px"> Who Buys Vote-buying? How, how much, and at what cost?, <b>Journal of Economic Behavior & Organization</b> 193 (2022): 98-124. </span> <br>
 	<button onclick="myFunction('abstract1')" class="btn--research">Abstract</button> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
 	<p id="abstract1" style="display: none;"><font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p>
 
@@ -16,14 +16,14 @@ author_profile: true
 ## Working Papers
 
 
-* <span style="color:Black"> Unforeseen Events or Unscrupulous Officials? Electoral Accountability and Law Abuse in Public Procurement
+* <span style="color:Black; font-size: 12px"> Unforeseen Events or Unscrupulous Officials? Electoral Accountability and Law Abuse in Public Procurement
 	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> <br>
 	<button onclick="myFunction('abstract5')" class="btn--research">Abstract</button> [Draft available soon](){: .btn--research}{:target="_blank"}
 	<p id="abstract5" style="display: none;"><font size="2.5"> This paper examines whether electoral accountability deters public officials from abusing the law, using a novel indicator of law abuse that measures the unjustified use of the *unforeseen events clause*: an exception clause common in procurement regulations that grants officials with more discretion at times of *force majeure* events. By exploiting a natural experiment and applying a staggered Differences-in-Differences (DiD) design, we find that public officials who lack reelection incentives are 23 pp more likely to abuse the unforeseen events clause than those who face reelection incentives. This abuse of law inflates contract prices by 23% and reduces value for money by 40%. These results are robust to various specification checks, including a Regression Discontinuity in Time (RDiT) design. We rule out the possibility that the documented effects are driven by better quality procurement due to the increased discretion. However, we find no evidence that electoral accountability deters more subtle malpractices, such as cost manipulation. </font> </p> 
 	
 	
 
-* <span style="color:Black"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
+* <span style="color:Black; font-size: 20px"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
 	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <b>(Submitted)</b> <br>
 	<button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Working Paper](/files/PolVacc.pdf){: .btn--research}{:target="_blank"}
 	<p id="abstract3" style="display: none;"><font size="2.5"> This paper examines the role of social norms and political polarization in shaping vaccination attitudes and behaviors in the context of the Covid-19 pandemic. Using a large-scale representative survey experiment in Turkey, we first show that political affiliation is a strong predictor of attitudes towards vaccination. We then use standard economic games to measure the extent of polarization caused by subjects' attitudes towards vaccination. We find that pro- and anti-vaxxers discriminate each other substantially. Furthermore, when pro- and anti-vaxxers perceive a political difference between them, this polarization is exacerbated. Finally, using randomized informational treatments, we show that the promotion of a broadly shared social identity might mitigate this outgroup discrimination. </font> </p> 
