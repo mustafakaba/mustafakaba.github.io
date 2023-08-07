@@ -8,9 +8,7 @@ author_profile: true
 ## Publications
 
 
-
-
-*<span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <strong><i>Journal of Economic Behavior & Organization</i></strong> 193 (2022): 98-124. </span> 
+* <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>Journal of Economic Behavior & Organization</b> 193 (2022): 98-124. </span> 
 	
 	<button onclick="myFunction('abstract1')" class="btn--research">Abstract</button> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
 	<p id="abstract1" style="display: none;"><font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p>
@@ -19,7 +17,7 @@ author_profile: true
 ## Working Papers
 
 
-*<span style="color:Black"> Unforeseen Events or Unscrupulous Officials? Electoral Accountability and Law Abuse in Public Procurement
+* <span style="color:Black"> Unforeseen Events or Unscrupulous Officials? Electoral Accountability and Law Abuse in Public Procurement
 	*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 	
 	<button onclick="myFunction('abstract5')" class="btn--research">Abstract</button> [Draft available soon](){: .btn--research}{:target="_blank"}
@@ -27,7 +25,7 @@ author_profile: true
 	
 	
 
-*<span style="color:Black"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
+* <span style="color:Black"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
 	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <b>(Submitted)</b>
 	
 	<button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Working Paper](/files/PolVacc.pdf){: .btn--research}{:target="_blank"}
@@ -35,7 +33,7 @@ author_profile: true
 	 
 	
 	
-*<span style="color:Black"> The Olympic Effect: Fact or Fiction?
+* <span style="color:Black"> The Olympic Effect: Fact or Fiction?
 	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <b>(Submitted)</b> 
 	
 	<button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Working Paper](/files/The_Olympic_Effect.pdf){: .btn--research}{:target="_blank"} 
@@ -43,7 +41,7 @@ author_profile: true
 	
 		
 	
-*<span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
+* <span style="color:Black"> Leadership, Social Networks and Workplace Climate Through a Gender Lens
 	*(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span>
 	
 	<button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Draft available soon](){: .btn--research}{:target="_blank"}
@@ -55,13 +53,13 @@ author_profile: true
 ## Work in Progress
 
 	
-*<span style="color:Black"> Reputation Signalling and Exports in Contract-Intensive Industries
+* <span style="color:Black"> Reputation Signalling and Exports in Contract-Intensive Industries
 	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> 
 	
 	<button onclick="myFunction('abstract7')" class="btn--research">Abstract</button>
 	<p id="abstract7" style="display: none;"><font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out of this trap is to have a third-party organization signalling reputation on behalf of them. We test the effectiveness of this strategy using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in the exports of these industries compared to non-contract-intensive industries. </font> </p> 
 	
-*<span style="color:Black"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
+* <span style="color:Black"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
 	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
 
@@ -69,7 +67,7 @@ author_profile: true
 ## Shirking Papers
 
 
-*<span style="color:Black"> Class Voting and Economic Policy Preferences: A Predictive Modelling Approach </span> 
+* <span style="color:Black"> Class Voting and Economic Policy Preferences: A Predictive Modelling Approach </span> 
 	
 	<button onclick="myFunction('abstract8')" class="btn--research">Abstract</button> [Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"}
 	<p id="abstract8" style="display: none;"><font size="2.5"> Economic policy preferences are often thought to be less class-based over time due to improved living standards. Yet, there is no clear way to measure the degree of class distinctiveness in economic preferences and how it varies over time and space. In this paper, I introduce a novel measure of class distinctiveness in economic policy preferences based on predictive modeling and estimate it for 18 European countries at three different points in time. I then validate this new measure and explore its implications for class-based voting. </font> </p> 
