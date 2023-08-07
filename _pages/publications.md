@@ -46,12 +46,12 @@ author_profile: true
 
 ## Work in Progress
 	
-* <span style="color:Black; font-size: 14px"> Reputation Signalling and Exports in Contract-Intensive Industries
+1. <span style="color:Black; font-size: 14px"> Reputation Signalling and Exports in Contract-Intensive Industries
 	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <br>
 	<button onclick="myFunction('abstract7')" class="btn--research">Abstract</button>
 	<p id="abstract7" style="display: none;"><font size="2.5"> Reputation plays a crucial role in business and trade. In this paper, we argue that contract-intensive industries are more likely to suffer from a reputation trap due to their heavy reliance on relationship-specific inputs that are otherwise not sold on exchange. We then argue that a way out of this trap is to have a third-party organization signalling reputation on behalf of them. We test the effectiveness of this strategy using the Olympics Games as an instrument to signal reputation and to increase the export levels of contract-intensive industries. We find that hosting the Olympics lead to ~20% increase in the exports of these industries compared to non-contract-intensive industries. </font> </p> 
 	
-* <span style="color:Black; font-size: 14px"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
+2. <span style="color:Black; font-size: 14px"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
 	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
 
