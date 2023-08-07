@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
+	
 ## Publications
 
 * <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
@@ -13,6 +13,18 @@ author_profile: true
 	<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font>
 	
 	[Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
+
+## Publications
+
+* <span style="color:Black"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span>
+	
+	<button class="btn--research abstract-button">Abstract</button>
+	<div class="abstract-content" style="display:none;">
+		<font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> 
+	</div>
+
+	[Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
+
 
 
 ## Working Papers
@@ -84,31 +96,17 @@ author_profile: true
 
 
 <script>
-function myFunction(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
+    document.addEventListener("DOMContentLoaded", function() {
+        var abstractButtons = document.getElementsByClassName('abstract-button');
+        for(var i = 0; i < abstractButtons.length; i++) {
+            abstractButtons[i].addEventListener('click', function(e) {
+                var content = this.nextElementSibling;
+                if (content.style.display === "none") {
+                    content.style.display = "block";
+                } else {
+                    content.style.display = "none";
+                }
+            });
+        }
+    });
 </script>
-
-<style>
-.abstractButton {
-    background-color: blue; /* Blue background */
-    color: white; /* White text */
-    border: 2px solid black; /* Black border */
-    padding: 5px 10px; /* Some padding */
-    text-align: center; /* Centered text */
-    text-decoration: none; /* No underline */
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer; /* Mouse pointer on hover */
-}
-.abstractButton:hover {
-    background-color: lightblue; /* Light Blue background on hover */
-}
-</style>
-
