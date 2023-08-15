@@ -23,13 +23,13 @@ author_profile: true
 	
 
 2. <span style="color:Black; font-size: 14px"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
-	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <b>(Submitted)</b> <br>
+	*(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* <b>(Submitted)</b> </span> <br>
 	<button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Paper](/files/PolVacc.pdf){: .btn--research}{:target="_blank"}
 	<p id="abstract3" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> This paper examines the role of social norms and political polarization in shaping vaccination attitudes and behaviors in the context of the Covid-19 pandemic. Using a large-scale representative survey experiment in Turkey, we first show that political affiliation is a strong predictor of attitudes towards vaccination. We then use standard economic games to measure the extent of polarization caused by subjects' attitudes towards vaccination. We find that pro- and anti-vaxxers discriminate each other substantially. Furthermore, when pro- and anti-vaxxers perceive a political difference between them, this polarization is exacerbated. Finally, using randomized informational treatments, we show that the promotion of a broadly shared social identity might mitigate this outgroup discrimination. </font> </p> 
 	
 	
 3. <span style="color:Black; font-size: 14px"> The Olympic Effect: Fact or Fiction?
-	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <b>(Submitted)</b> <br>
+	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* <b>(Submitted)</b> </span>  <br>
 	<button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](/files/The_Olympic_Effect.pdf){: .btn--research}{:target="_blank"} 
 	<p id="abstract4" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries historically have been striving to host this mega event and bidding decisively. More recently though, countries are withdrawing their bids from the election procedure. This puzzling historical interest in hosting the games and the recent trend of withdrawals cast doubt on the existence of the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports using the synthetic control method. We show that the Olympic effect is more pronounced for countries that stand to gain from an international publicity. The results also indicate that a substantial positive Olympic effect is only associated with earlier games. </font> </p> 	
 	
