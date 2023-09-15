@@ -52,7 +52,7 @@ author_profile: true
 1. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 	
 2. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
-	*([Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
+	*(with [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
 3. <span style="color:Black; font-size: 14px;"> Reputation Signalling and Exports in Contract-Intensive Industries
 	*(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <br>
