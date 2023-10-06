@@ -19,7 +19,7 @@ author_profile: true
 ## Publications
 
 
-1. <span style="color:Black; font-size: 14px;"> Who Buys Vote-buying? How, how much, and at what cost?, *Journal of Economic Behavior & Organization* 193 (2022): 98-124. </span> <br>
+1. <span style="color:Black; font-size: 14px;"> Who Buys Vote-buying? How, how much, and at what cost?, <b>*Journal of Economic Behavior & Organization*</b> 193 (2022): 98-124. </span> <br>
 	<button onclick="myFunction('abstract1')" class="btn--research">Abstract</button> [Paper](https://www.sciencedirect.com/science/article/pii/S0167268121004704?casa_token=mINj6z4gSncAAAAA:HseceyY_9La3dcnzuooAIVwuXkocSNSEf82nIApVwtgZHwZfcuqqGe93t2cTRWdZLlSthtjK){: .btn--research}{:target="_blank"}
 	<p id="abstract1" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> In this paper, I estimate the causal effect of a local food-subsidy program on electoral outcomes. I exploit the variation in voters’ walking distances from the program stores to identify their accessibility to the program. I find that a distributive spending of ~5% of GDP per capita buys an additional vote for the incumbent. I then investigate who –based on partisanship– responds to the subsidy, and how much and how they respond. The findings indicate that all types of voters respond to the distributive spending in line with the reciprocity rule; however, they respond through different channels and in different magnitude. Importantly, the salient channel for opposition voters is abstention-buying, whereas incumbent supporters respond by an increased turnout. </font> </p>
 
@@ -27,7 +27,7 @@ author_profile: true
 ## Working Papers
 
 1. <span style="color:Black; font-size: 14px;"> Social Norms, Political Polarization, and Vaccination Attitudes: Evidence from a Survey Experiment in Turkey
-	 <b> *(Under Review)* </b>  <br> *(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))*  </span> <br>
+	 <b> *(R&R Requested at the European Economic Review)* </b>  <br> *(with [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/), [Sebastian Schneider](https://sebastianoschneider.com/) and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))*  </span> <br>
 	<button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Working Paper](/files/PolVacc.pdf){: .btn--research}{:target="_blank"}
 	<p id="abstract3" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> This paper examines the role of social norms and political polarization in shaping vaccination attitudes and behaviors in the context of the Covid-19 pandemic. Using a large-scale representative survey experiment in Turkey, we first show that political affiliation is a strong predictor of attitudes towards vaccination. We then use standard economic games to measure the extent of polarization caused by subjects' attitudes towards vaccination. We find that pro- and anti-vaxxers discriminate each other substantially. Furthermore, when pro- and anti-vaxxers perceive a political difference between them, this polarization is exacerbated. Finally, using randomized informational treatments, we show that the promotion of a broadly shared social identity might mitigate this outgroup discrimination. </font> </p> 
 	
