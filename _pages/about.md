@@ -17,6 +17,7 @@ I am a Senior Research Fellow at the [Max Planck Institute](https://www.coll.mpg
 
 <span style="color:Black; font-size: 14px"> **I will be available for interviews on the economics job market this academic year!**  </span>
 
+<span style="color:Black; font-size: 14px"> See my Job Market Paper [here](/files/JMP_draft.pdf). </span>
 
 <span style="color:Black; font-size: 14px"> E-mail: *kaba@coll.mpg.de* </span>
 
