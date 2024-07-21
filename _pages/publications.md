@@ -30,7 +30,7 @@ author_profile: true
 	
 
 2. <span style="color:Black; font-size: 14px;"> Female Leadership and Workplace Climate
-	 *(R&R at <b> Management Science </b>)*  <br> *(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <br>
+	 *(R&R at <b> Management Science</b>)*  <br> *(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <br>
 	<button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Working Paper](/files/Female+Leadership_Alan-Corekcioglu-Kaba-Sutter.pdf){: .btn--research}{:target="_blank"} [CEPR Version](https://cepr.org/publications/dp18465){: .btn--research}{:target="_blank"}
 	<p id="abstract6" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Using data from over 2,000 professionals in 24 large corporations, we show that female leaders shape the relational culture in the workplace differently than male leaders. Males form homophilic professional ties under male leadership, but female leadership changes this pattern, creating a less segregated workplace. Female leaders are more likely to establish professional support links with their female subordinates. Under female leadership, female employees are less likely to quit their jobs but no more likely to get promoted. Results suggest that increasing female presence in leadership positions may be an effective way to mitigate toxic relational culture in the workplace. </font> </p> 
 	
