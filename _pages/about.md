@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <span style="color:Black; font-size: 14px">
-I am a post-doctoral researcher at the [Max Planck Institute](https://www.coll.mpg.de/) in Bonn. I received my Ph.D. in Economics from the European University Institute. </span>
+I am an Assistant Professor of Economics at Koç University, İstanbul. I received my Ph.D. in Economics from the European University Institute. </span>
 
-<span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics. I study how beliefs, incentives, and institutional structures shape economic and social behavior using methods from microeconometrics and experimental economics.  </span> 
+<span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics. I study how beliefs, incentives, and institutional structures shape economic, social and political behavior using methods from microeconometrics and experimental economics.  </span> 
 
 <span style="color:Black; font-size: 14px">
 I will join Koç University as an Assistant Professor of Economics in September 2024. </span>
