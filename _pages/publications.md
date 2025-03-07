@@ -9,7 +9,7 @@ author_profile: true
 ## Publications
 
 1. <span style="color:Black; font-size: 14px;"> Female Leadership and Workplace Climate
-	 *(R&R at <b> Management Science</b>)*  <br> *(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <br>
+	 *(forthcoming at <b> Management Science</b>)*  <br> *(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <br>
 	<button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Working Paper](/files/Female+Leadership_Alan-Corekcioglu-Kaba-Sutter.pdf){: .btn--research}{:target="_blank"} [CEPR Version](https://cepr.org/publications/dp18465){: .btn--research}{:target="_blank"}
 	<p id="abstract6" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Using data from over 2,000 professionals in 24 large corporations, we show that female leaders shape the relational culture in the workplace differently than male leaders. Males form homophilic professional ties under male leadership, but female leadership changes this pattern, creating a less segregated workplace. Female leaders are more likely to establish professional support links with their female subordinates. Under female leadership, female employees are less likely to quit their jobs but no more likely to get promoted. Results suggest that increasing female presence in leadership positions may be an effective way to mitigate toxic relational culture in the workplace. </font> </p> 
 	
@@ -41,12 +41,7 @@ author_profile: true
 	<button onclick="myFunction('abstract8')" class="btn--research">Abstract</button> [Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"} 
 	<p id="abstract8" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Policy preferences are assumed to have become less anchored in social class due to rising living standards, the broadening reach of education, and increased social mobility. However, there has yet to be a systematic approach to gauging the extent of class-based distinctions in economic policy preferences and their evolution across time and space. In this study, using predictive modeling, I introduce a novel metric for assessing class distinctiveness in economic policy preferences and estimate it for 18 European countries at three different points in time. I then validate this innovative measure and delve into its implications for class-based voting. </font> </p> 
 	
-	
-3. <span style="color:Black; font-size: 14px;"> The Olympic Effect: Fact or Fiction?
-	*(Draft in preparation for submission)* <br> *(with [Nicole Stoelinga](https://www.nicolestoelinga.com/home))* </span> <br> 
-	<button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> 
-	<p id="abstract4" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Hosting the Olympic Games implies tremendous costs and uncertain profits, yet countries historically have been striving to host this mega event and bidding decisively. More recently though, countries are withdrawing their bids from the election procedure. This puzzling historical interest in hosting the games and the recent trend of withdrawals cast doubt on the existence of the so-called Olympic effect: the positive impact of the Olympics on international trade. In this paper, we estimate the Olympic effect on long-term exports using the synthetic control method. We show that the Olympic effect is more pronounced for countries that stand to gain from an international publicity. The results also indicate that a substantial positive Olympic effect is only associated with earlier games. </font> </p> 	
-
+		
 
 ## Work in Progress
 	
