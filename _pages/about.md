@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="color:Black; font-size: 14px">
-I am an Assistant Professor of Economics at Koç University, İstanbul. I received my Ph.D. in Economics from the European University Institute. </span>
+I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu.tr/), İstanbul. I received my Ph.D. in Economics from the [European University Institute](https://www.eui.eu/en/home). Prior to joining Koç University, I worked as a post-doctoral researcher at the [Max Planck Institute for Research on Collevtive Goods](https://www.coll.mpg.de/), Bonn, Germany. </span>
 
 <span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics using methods from microeconometrics and experimental economics. My research has been awarded the EU's <b>Marie Skłodowska-Curie Actions PF Grant</b> and Scientific and Technological Research Council of Türkiye's (TÜBİTAK) <b>International Fellowship for Early Stage Researchers</b>.  </span> 
 
