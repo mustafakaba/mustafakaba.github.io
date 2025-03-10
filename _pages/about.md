@@ -10,14 +10,14 @@ redirect_from:
 <span style="color:Black; font-size: 14px">
 I am an Assistant Professor of Economics at Koç University, İstanbul. I received my Ph.D. in Economics from the European University Institute. </span>
 
-<span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics using methods from microeconometrics and experimental economics. My research has been awarded the EU's Marie Skłodowska-Curie Actions PF Grant and Scientific and Technological Research Council of Türkiye’s (TÜBİTAK) International Fellowship for Early Stage Researchers.  </span> 
+<span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics using methods from microeconometrics and experimental economics. My research has been awarded the EU's <b>Marie Skłodowska-Curie Actions PF Grant</b> and Scientific and Technological Research Council of Türkiye’s (TÜBİTAK) <b>International Fellowship for Early Stage Researchers</b>.  </span> 
 
 <span style="color:Black; font-size: 14px"> Click here for my [CV](https://mustafakaba.github.io/files/CV_Kaba.pdf). </span>
 
 <span style="color:Black; font-size: 14px"> E-mail: *mkaba@ku.edu.tr* </span>
 
 
-## Publications
+# Publications
 
 1. <span style="color:Black; font-size: 14px;"> Female Leadership and Workplace Climate
 	 *(forthcoming at <b> Management Science</b>)*  <br> *(with [Sule Alan](https://sulealan.com/), [Gozde Corekcioglu](https://www.gozdecorekcioglu.com), [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> <br>
@@ -39,7 +39,7 @@ I am an Assistant Professor of Economics at Koç University, İstanbul. I receiv
 
 
 
-## Working Papers
+# Working Papers
 
 1. <span style="color:Black; font-size: 14px;"> From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers <b>  </b> <br>*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> <br>
 	<button onclick="myFunction('abstract5')" class="btn--research">Abstract</button>
@@ -54,7 +54,7 @@ I am an Assistant Professor of Economics at Koç University, İstanbul. I receiv
 	
 		
 
-## Work in Progress
+# Work in Progress
 	
 1. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 
