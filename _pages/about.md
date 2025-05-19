@@ -43,7 +43,7 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 
 # Working Papers
 
-1. <span style="color:Black; font-size: 14px;"> From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers <b>  </b> <br>*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> <br>
+1. <span style="color:Black; font-size: 14px;"> From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers *<b>(Under review)</b>* <b>  </b> <br>*(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> <br>
 	<button onclick="myFunction('abstract5')" class="btn--research">Abstract</button>
 	[Latest version](/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
 	
