@@ -67,3 +67,25 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 4. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
 	*(with [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
+	
+	
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+<!--- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} --->	
+
+<script>
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
