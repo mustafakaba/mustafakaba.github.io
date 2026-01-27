@@ -12,9 +12,9 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 
 <span style="color:Black; font-size: 14px"> I am an applied microeconomist specializing in political economy and behavioral economics. My work is defined by two primary research tracks: </span> 
 
-<ul>
-  <li><strong>Political Economy:</strong> <span style="color:Black; font-size: 14px"> I focus on public procurement, public service delivery, and distributive politics.</span>  </li>
-  <li><strong>Behavioral Economics:</strong> <span style="color:Black; font-size: 14px"> I study the role of beliefs, social norms, and complexity in decision-making.</span>  </li>
+<ul style="color:Black; font-size: 14px">
+  <li><strong>Political Economy:</strong> I focus on public procurement, public service delivery, and distributive politics.</li>
+  <li><strong>Behavioral Economics:</strong> I study the role of beliefs, social norms, and complexity in decision-making.</li>
 </ul>
 
 <span style="color:Black; font-size: 14px"> My research agenda specifically regarding the role of complexity in decision-making has recently been granted funding by the EU Horizon <b>Marie Skłodowska-Curie Actions PF Grant</b> and the <b>International Fellowship for Early Stage Researchers Program</b> of the Scientific and Technological Research Council of Türkiye (TÜBİTAK). </span> 
