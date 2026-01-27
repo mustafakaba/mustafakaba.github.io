@@ -67,7 +67,7 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 
 # Work in Progress
 
-1. <span style="color:Black; font-size: 14px;"> Narrative Complexity and Decision-Making: A Behavioral and Experimental Approach *(with [Cavit Görkem Destan](https://www.cgdestan.com/) and Simay Küçükkolbaşı* </span> 
+1. <span style="color:Black; font-size: 14px;"> Decisions under Narrative Complexity *(with [Cavit Görkem Destan](https://www.cgdestan.com/) and Simay Küçükkolbaşı* </span> 
 	
 2. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 
