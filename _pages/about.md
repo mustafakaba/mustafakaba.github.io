@@ -10,7 +10,16 @@ redirect_from:
 <span style="color:Black; font-size: 14px">
 I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu.tr/), İstanbul. I received my Ph.D. in Economics from the [European University Institute](https://www.eui.eu/en/home).  </span>
 
-<span style="color:Black; font-size: 14px"> I am an applied microeconomist with a focus on political economy and behavioral economics using methods from microeconometrics and experimental economics. My research has been recently granted funding by the EU Horizon <b>Marie Skłodowska-Curie Actions PF Grant</b> and Scientific and Technological Research Council of Türkiye's (TÜBİTAK) <b>International Fellowship for Early Stage Researchers</b>.  </span> 
+<span style="color:Black; font-size: 14px"> I am an applied microeconomist specializing in political economy and behavioral economics. My work is defined by two primary research tracks: </span> 
+
+<ul>
+  <li><strong>Political Economy:</strong> I focus on public procurement, public service delivery, and distributive politics.</li>
+  <li><strong>Behavioral Economics:</strong> I study the role of beliefs, social norms, and complexity in decision-making.</li>
+</ul>
+
+<span style="color:Black; font-size: 14px"> My research agenda specifically regarding the role of complexity in decision-making has recently been granted funding by the EU Horizon <b>Marie Skłodowska-Curie Actions PF Grant</b> and the <b>International Fellowship for Early Stage Researchers Program</b> of the Scientific and Technological Research Council of Türkiye (TÜBİTAK). </span> 
+
+<span style="color:Black; font-size: 14px"> <b>Call for Applications:</b> I am seeking a PhD student to collaborate on this funded project regarding complexity in decision-making. Interested candidates are encouraged to contact me at mkaba@ku.edu.tr. </span> 
 
 <span style="color:Black; font-size: 14px"> Click here for my [CV](https://mustafakaba.github.io/files/CV_Kaba.pdf). </span>
 
