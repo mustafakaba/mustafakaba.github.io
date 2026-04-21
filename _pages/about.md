@@ -17,9 +17,7 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
   <li><strong>Behavioral Economics:</strong> I study the role of beliefs, social norms, and complexity in decision-making.</li>
 </ul>
 
-<span style="color:Black; font-size: 14px"> My research agenda specifically regarding the role of complexity in decision-making has recently been granted funding by the EU Horizon <b>Marie Skłodowska-Curie Actions PF Grant</b> and the <b>International Fellowship for Early Stage Researchers Program</b> of the Scientific and Technological Research Council of Türkiye (TÜBİTAK). </span> 
-
-<span style="color:Black; font-size: 14px"> <b>Call for Applications:</b> I am seeking a PhD student to collaborate on this funded project regarding complexity in decision-making. Interested candidates are encouraged to contact me at mkaba@ku.edu.tr. </span> 
+<span style="color:Black; font-size: 14px"> My research agenda specifically regarding the role of complexity in decision-making has recently been granted funding by the *EU Horizon Marie Skłodowska-Curie Actions PF Grant* and the *International Fellowship for Early Stage Researchers Program* of the Scientific and Technological Research Council of Türkiye (*TÜBİTAK*). </span> 
 
 <span style="color:Black; font-size: 14px"> Click here for my [CV](https://mustafakaba.github.io/files/CV_Kaba.pdf). </span>
 
@@ -57,9 +55,16 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 	[Working Paper](/files/Public_procurement_draft.pdf){: .btn--research}{:target="_blank"}
 	
 	<p id="abstract5" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected officials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we show how authoritarian takeovers deteriorate the rule of law and reduce economic efficiency in public procurement. Notably, centrally appointed mayors use competitive auctions at a rate nearly half that of elected mayors and instead exploit legal provisions almost three times as often. Such practices inflate contract prices by 24% and reduce value for money by 40%, causing waste equivalent to 6% of procurement spending in the affected municipalities. These results are robust to various tests, including Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find evidence for diminished local accountability driving these effects. By contrast, we do not find evidence for either the coordination benefits from a more centralized governance or politicians' discretion leading to quality improvements in procurement. In an era of global autocratization, our sub-national evidence on authoritarian takeovers underscores the instrumental value of democracy. </font> </p>
-	
 
-2. <span style="color:Black; font-size: 14px;"> Class Voting and Economic Policy Preferences: A Machine Learning Approach   </span> <br>
+
+2. <span style="color:Black; font-size: 14px;"> Decisions under Narrative Complexity *(with [Cavit Görkem Destan](https://www.cgdestan.com/) and Simay Küçükkolbaşı)* </span> 
+	<button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> *(Draft available upon request)*
+	
+	<p id="abstract9" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> How does the structural architecture of a causal narrative shape whether individuals correctly comprehend and act upon it? We design a pre-registered, incentivized online experiment (N = 1,800$, representative US sample) that decomposes narrative complexity into two orthogonal dimensions: *state complexity*, the number of variables in a linear causal chain, and *structure complexity*, the presence of a feedback loop introducing mutual causation. Subjects are randomly assigned between-subjects to a complexity condition and complete incentivized comprehension and decision tasks across three domains (fictional, production, immigration), the last of which further randomizes the political slant of the narrative. Structure complexity imposes markedly higher cognitive costs than state complexity despite involving fewer variables. The feedback loop treatment increases comprehension errors by 41 percent and decision errors by 21 percent over baseline, respectively. The corresponding figures for the most complex state treatment are 23 and 17 percent. These results reveal a fundamental asymmetry between the *simulation costs* of processing interdependent systems and the *storage costs* of tracking longer chains. We trace this asymmetry to two distinct cognitive failure modes. *Representational failure*---the inability to correctly encode which variables and links exist---is elevated by state complexity but not by structure complexity, consistent with longer chains exceeding working memory capacity. *Computational failure*---the inability to compute net causal effects from a correct representation---is elevated by structure complexity and persists among subjects who accurately encoded the causal structure, consistent with the feedback loop imposing a simulation cost independent of memory load. In the immigration domain, complexity effects on error rates vanish as prior political beliefs dominate causal reasoning. Our findings have direct implications for policy communication and for understanding why citizens systematically fail to anticipate the equilibrium consequences of structurally complex policy interventions.</font> </p> 
+
+
+
+3. <span style="color:Black; font-size: 14px;"> Class Voting and Economic Policy Preferences: A Machine Learning Approach   </span> <br>
 	<button onclick="myFunction('abstract8')" class="btn--research">Abstract</button> [Working Paper](/files/Class_voting.pdf){: .btn--research}{:target="_blank"} 
 	<p id="abstract8" style="display: none; text-align: justify; width: 75%;"><font size="2.5"> Policy preferences are assumed to have become less anchored in social class due to rising living standards, the broadening reach of education, and increased social mobility. However, there has yet to be a systematic approach to gauging the extent of class-based distinctions in economic policy preferences and their evolution across time and space. In this study, using predictive modeling, I introduce a novel metric for assessing class distinctiveness in economic policy preferences and estimate it for 18 European countries at three different points in time. I then validate this innovative measure and delve into its implications for class-based voting. </font> </p> 
 	
@@ -67,17 +72,38 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 
 # Work in Progress
 
-1. <span style="color:Black; font-size: 14px;"> Decisions under Narrative Complexity *(with [Cavit Görkem Destan](https://www.cgdestan.com/) and Simay Küçükkolbaşı* </span> 
 	
-2. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
+1. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 
-3. <span style="color:Black; font-size: 14px;"> Is Seeing Believing? How Public Service Visibility Influences Local Government Spending and Procurement Policies *(with [Serkant Adiguzel](https://serkantadiguzel.com/), [Asli Cansunar](https://www.aslicansunar.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
+2. <span style="color:Black; font-size: 14px;"> Is Seeing Believing? How Public Service Visibility Influences Local Government Spending and Procurement Policies *(with [Serkant Adiguzel](https://serkantadiguzel.com/), [Asli Cansunar](https://www.aslicansunar.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 	
-4. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
+3. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
 	*(with [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
 	
 	
+
+
+
+# Teaching
+
+**Lecturer, Economics Department, Koç University**
+
+   * <span style="color:Black; font-size: 14px"> ECON101 - Introduction to Microeconomics, Spring 2026, Spring 2025 </span>
+
+   * <span style="color:Black; font-size: 14px"> ECON451 - Political Economy, Fall 2025, Fall 2024 </span>
+
+**Lecturer, Economics Department, University of Cologne**
+
+   * <span style="color:Black; font-size: 14px"> (Grad-level) Econometrics for Behavioral Economists, Spring 2024 </span>
+
+   * <span style="color:Black; font-size: 14px"> (Grad-level) Applied Econometrics, Fall 2023 </span>
+
+   * <span style="color:Black; font-size: 14px"> (Grad-level) Econometrics for Behavioral Economists, Spring 2022 <br>
+   [Syllabus](/files/Syllabus_Econometrics.pdf){: .btn--research}{:target="_blank"}
+   [Student Evaluations](/files/student_evaluations_eng.pdf){: .btn--research}{:target="_blank"} </span>
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
