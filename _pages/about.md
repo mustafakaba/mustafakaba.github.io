@@ -71,15 +71,13 @@ I am an Assistant Professor of Economics at [Koç University](https://www.ku.edu
 
 # Work in Progress
 
-1. <span style="color:Black; font-size: 14px;"> Transmission of Causal Structures </span> 
-
-2. <span style="color:Black; font-size: 14px;"> Decision-making under Complexity & Accountability *(with Zeynep Nazlı Ok and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
+1. <span style="color:Black; font-size: 14px;"> Decision-making under Complexity & Accountability *(with Zeynep Nazlı Ok and [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
-3. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
+2. <span style="color:Black; font-size: 14px;"> Local Responses to a Global Crisis: Public Service Delivery in Turkish Municipalities Amidst Migrant Influx *(with [Serkant Adiguzel](https://serkantadiguzel.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 
-4. <span style="color:Black; font-size: 14px;"> Is Seeing Believing? How Public Service Visibility Influences Local Government Spending and Procurement Policies *(with [Serkant Adiguzel](https://serkantadiguzel.com/), [Asli Cansunar](https://www.aslicansunar.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
+3. <span style="color:Black; font-size: 14px;"> Is Seeing Believing? How Public Service Visibility Influences Local Government Spending and Procurement Policies *(with [Serkant Adiguzel](https://serkantadiguzel.com/), [Asli Cansunar](https://www.aslicansunar.com/) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))* </span> 
 	
-5. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
+4. <span style="color:Black; font-size: 14px;"> Social Identity and Policy Preferences: Evidence from a Large-scale Survey Experiment in the U.S.
 	*(with [Matthias Sutter](https://www.coll.mpg.de/matthias-sutter))* </span> 
 	
 	
